@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Harry-Ngugi-s-workspace-ut46e1.us-east-1.xata.sh/db/SnapCast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
